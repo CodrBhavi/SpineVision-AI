@@ -1,3 +1,8 @@
+
+
+https://github.com/user-attachments/assets/f95636e3-dd81-4694-bc66-c6c787f2d03e
+
+
 <p align="center">
   <img src="assets/spinevision_banner_1280x640.png" width="100%">
 </p>
@@ -7,11 +12,6 @@
 <p align="center">
 AI-Powered Spinal MRI Analysis using C++, Qt & Python
 </p>
-
-
-
-Uploading WhatsApp Video 2026-07-25 at 12.03.52 PM.mp4…
-
 
 # SpineVision-AI
 SpineVision AI is a desktop app demonstrating C++ (Qt) frontend integration with a Python AI backend using QProcess (no servers/databases). Users upload MRIs and notes; the app passes data to a vision LLM via Groq API to return structured radiology-style reports. Built as an educational pattern, not a diagnostic tool.
